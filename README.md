@@ -10,7 +10,7 @@ Three.js / WebGL 2 の海シェーダー。3帯域のスペクトル波、泡、
 
 ### 起動
 
-Node.js 24.15以降の24.xを使用してください。
+Node.js 24.22.1以降の24.x、または26.12.1以降を使用してください。
 
 ```sh
 npm ci
@@ -73,7 +73,7 @@ Demo: <https://noxelwork.com/nagi-ocean/>
 
 ### Getting started
 
-Use Node.js 24.x, version 24.15 or later.
+Use Node.js 24.22.1 or later on the 24.x line, or Node.js 26.12.1 or later.
 
 ```sh
 npm ci
